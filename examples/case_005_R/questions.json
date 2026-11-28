@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "question_id": "4-1",
+      "question_type": "anterior_segment",
+      "question": "Are there Keratic Precipitates (KP) present?",
+      "expected_answer": "No",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-2",
+      "question_type": "anterior_segment",
+      "question": "Is there Iris Atrophy or Pupil Distortion?",
+      "expected_answer": "Yes",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-3",
+      "question_type": "anterior_segment",
+      "question": "Is the Anterior Chamber shallow?",
+      "expected_answer": "Yes",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-4",
+      "question_type": "fundus",
+      "question": "Are there any splinter/linear hemorrhages at the disc margin or in the retinal nerve fiber layer (RNFL) region?",
+      "expected_answer": "No",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-5",
+      "question_type": "fundus",
+      "question": "Are there any yellowish-white exudates in the posterior pole of the retina?",
+      "expected_answer": "No",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-6",
+      "question_type": "fundus",
+      "question": "Is there neuroretinal rim thinning?",
+      "expected_answer": "Yes",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-7",
+      "question_type": "fundus",
+      "question": "Is there retinal nerve fiber layer (RNFL) defect/thinning?",
+      "expected_answer": "Yes",
+      "answer_type": "binary"
+    },
+    {
+      "question_id": "4-8",
+      "question_type": "treatment",
+      "question": "What is the treatment option (surgery or medication)?",
+      "expected_answer": "surgery",
+      "answer_type": "categorical"
+    }
+  ]
+}
