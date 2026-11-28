@@ -30,6 +30,8 @@ For fusion, place the study's fine-tuned classifiers at the paths below. The dem
 | `weights/fundus.pth` | Standard fusion when fundus images are present |
 | `weights/anterior_segment.pth` | Standard fusion when anterior-segment images are present, and smartphone fusion |
 
+Download both checkpoints from [Eyes-Agent-Weights](https://huggingface.co/wjx1415413364/Eyes-Agent-Weights/tree/main) and place them in the `weights/` directory.
+
 VQA runs directly through the API and requires no local checkpoint. For a first run without weights, use the VQA command below.
 
 ## Run an example
